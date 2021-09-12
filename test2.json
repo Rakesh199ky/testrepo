@@ -1,5 +1,6 @@
 {
     "fruit": "Apple",
     "size": "Large",
+    "cntry": "uk",
     "color": "Red"
 }
