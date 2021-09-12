@@ -1,7 +1,5 @@
 {
     "fruit": "Apple",
     "size": "Large",
-    "Region": "EU",
-    "country": "GB",
     "color": "Red"
 }
